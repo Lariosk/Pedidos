@@ -21,7 +21,7 @@ Desarrollar una aplicación multiplataforma para el seguimiento y control de inv
 + DT3
   
 ## FUNCIONALIDADES
-- [ ] CRUD de productos
+- [ X] CRUD de productos
 - [ ] CRUD Proveedores
 - [ ] CRUD Usuarios
 - [ ] Reportes
